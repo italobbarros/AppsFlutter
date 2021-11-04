@@ -1,23 +1,14 @@
-# imc
+# Projeto de uma calculadora de IMC no Flutter 
 
-A new Flutter project.
+Este projeto foi baseado no video do curso da udemy que estou fazendo!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## Imagens do app de IMC
 
 <a href="https://github.com/italobbarros"> 
+<img alt="imc1" display = "block" margin-left="auto" margin-right="auto" src="https://raw.githubusercontent.com/italobbarros/AppsFlutter/master/imc/images/imc1.jpg"></img>
 
-<img alt="gif" height="140" width="100" src="https://github.com/italobbarros/italobbarros/blob/main/my3Dprint.gif"></img>
+<img alt="imc2" display = "block" margin-left="auto" margin-right="auto" src="https://raw.githubusercontent.com/italobbarros/AppsFlutter/master/imc/images/imc2.jpg"></img>
 
+<img alt="imc3" display = "block" margin-left="auto" margin-right="auto" src="https://raw.githubusercontent.com/italobbarros/AppsFlutter/master/imc/images/imc3.jpg"></img>
 </a>
