@@ -1,4 +1,4 @@
-name: imc
+name: conversor_moeda
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   http: ^0.13.4
-
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
