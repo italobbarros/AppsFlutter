@@ -86,6 +86,7 @@ class _HomeState extends State<Home> {
   void _realChanged(String text) {
     if (text != "") {
       double real = double.parse(text);
+
       dolarController.text = (real / dolar).toStringAsFixed(2);
       btcController.text = (real / btc).toStringAsFixed(12);
     }
